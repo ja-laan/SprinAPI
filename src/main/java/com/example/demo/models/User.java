@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.models;
 
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
